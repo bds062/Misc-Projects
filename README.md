@@ -1,4 +1,4 @@
-Miscellanous Projects:
+Miscellaneous Projects:
 
 Frog Sim - A sandbox game that allows the player to interact with a complex environment - Cocreated, project manager + backend developer, February 2023 - May 2023
 - Optimized a 2D open world sandbox game utilizing Perlin Noise generation and polygon collisions to run thousands of objects at 60 fps on IntelliJ IDEA and LWGJL.
